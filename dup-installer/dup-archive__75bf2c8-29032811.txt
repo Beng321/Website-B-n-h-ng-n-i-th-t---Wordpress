@@ -1,0 +1,857 @@
+{
+    "dup_type": "lite",
+    "created": "2024-09-29 03:28:11",
+    "version_dup": "1.5.10.2",
+    "version_wp": "6.6.2",
+    "version_db": "10.5.26",
+    "version_php": "8.1.29",
+    "version_os": "Linux",
+    "blogname": "quynhvishop",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$l69vGbEGUxYbGqDF\/e6OLuVej74n6ImnK9rur0SKH4tpTQZkN8F6S",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "quynhvishop.shop",
+            "path": "\/",
+            "blogname": "quynhvishop",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "hbf09411e6",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/quynhvishop.shop",
+            "fullSiteUrl": "https:\/\/quynhvishop.shop",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/quynhvishop.shop\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "PHP",
+        "charSetList": [
+            "utf8mb4"
+        ],
+        "collationList": [
+            "utf8mb4_general_ci",
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "hbf09411e6_wp_quynhvishop_shop",
+        "tablesBaseCount": 53,
+        "tablesFinalCount": 53,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 1967,
+        "tablesSizeOnDisk": 7569408,
+        "tablesList": {
+            "wp_actionscheduler_actions": {
+                "inaccurateRows": 39,
+                "insertedRows": 44,
+                "size": 131072
+            },
+            "wp_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_actionscheduler_groups": {
+                "inaccurateRows": 2,
+                "insertedRows": 3,
+                "size": 32768
+            },
+            "wp_actionscheduler_logs": {
+                "inaccurateRows": 51,
+                "insertedRows": 130,
+                "size": 49152
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_comments": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 114688
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_e_events": {
+                "inaccurateRows": 2,
+                "insertedRows": 3,
+                "size": 32768
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_options": {
+                "inaccurateRows": 511,
+                "insertedRows": 519,
+                "size": 4292608
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 781,
+                "insertedRows": 814,
+                "size": 278528
+            },
+            "wp_posts": {
+                "inaccurateRows": 222,
+                "insertedRows": 230,
+                "size": 442368
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 30,
+                "insertedRows": 33,
+                "size": 49152
+            },
+            "wp_terms": {
+                "inaccurateRows": 32,
+                "insertedRows": 32,
+                "size": 49152
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 59,
+                "insertedRows": 63,
+                "size": 32768
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 32,
+                "insertedRows": 32,
+                "size": 49152
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 32,
+                "insertedRows": 32,
+                "size": 49152
+            },
+            "wp_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 65536
+            },
+            "wp_user_registration_sessions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wc_admin_notes": {
+                "inaccurateRows": 54,
+                "insertedRows": 62,
+                "size": 65536
+            },
+            "wp_wc_admin_note_actions": {
+                "inaccurateRows": 89,
+                "insertedRows": 89,
+                "size": 65536
+            },
+            "wp_wc_category_lookup": {
+                "inaccurateRows": 15,
+                "insertedRows": 15,
+                "size": 16384
+            },
+            "wp_wc_customer_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_orders": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wp_wc_orders_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_addresses": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_wc_order_coupon_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_operational_data": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_product_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_wc_order_stats": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wp_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_product_attributes_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_wc_product_meta_lookup": {
+                "inaccurateRows": 9,
+                "insertedRows": 9,
+                "size": 131072
+            },
+            "wp_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_api_keys": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_order_itemmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_order_items": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_sessions": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_woocommerce_shipping_zones": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            }
+        },
+        "lowerCaseTableNames": 0,
+        "dbEngine": "MariaDB",
+        "version": "10.5.26",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 2,
+        "packageName": "20240905_quynhvishop",
+        "packageHash": "75bf2c8-29032811",
+        "secondaryHash": "385c9f9-29032811"
+    },
+    "fileInfo": {
+        "dirCount": 1489,
+        "fileCount": 12983,
+        "size": 163093619
+    },
+    "wpInfo": {
+        "version": "6.6.2",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html",
+        "targetPaths": [
+            "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "hbf09411e6",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "HW^IxQek4EwPu)fl>S(cl|~p>7GX=Y}K^?[pRu@bt(ZY,AEMQr]1y|[P+u6^V@O!",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "k$CP,X6OnhPgv8w8v&#3]LFA,oIhzuR>ZyKU_unZJh||R` vltdW{r,@xE.lLqKo",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "}uyjkTRp_JFx3P67wER[JS9%(Enz-5x1zf~ue4%MAr=l}L5CBhE*neU@o^ZP^5Z.",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "L*Oc+X\/Z274Go!mR[^s&p:0=&Ewo8!NQ?|.jh<iI|X-8bJ;E%E N=!K}_0w.uVF_",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "$is1S.3RUy%z;z@tSL3m6*WJie\/VPP}dGP!~T)puE\/pY(GOg6jGQL?gq$:FQboK}",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "(%fM}!QPx]B?FGf!qMN,X, $;\/wTr :|#gj9-r+~4,5imG:#zO=.YdBc,A&eq;RQ",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "Vn1yELh$*sq,WP$OXx$|RUU=J3K0CR DS.~?MpgMY}5?^;V{Ip[{T@?y3V{4hHVr",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "h!?2ue6#<L5v$77rGH3Sg`2KiQ}2[e9Bl?a2T)]UDa>-(t=oc3isB*RQ&;4y[Kol",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/quynhvishop.shop\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/quynhvishop.shop\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": "",
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "DISABLE_WP_CRON": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/themes\/flatsome",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/themes\/flatsome-child",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/quynhvishop.shop\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/quynhvishop.shop",
+                "homeUrl": "https:\/\/quynhvishop.shop",
+                "loginUrl": "https:\/\/quynhvishop.shop\/wp-login.php",
+                "contentUrl": "https:\/\/quynhvishop.shop\/wp-content",
+                "uploadBaseUrl": "https:\/\/quynhvishop.shop\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/quynhvishop.shop\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/quynhvishop.shop\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/quynhvishop.shop\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html",
+                    "abs": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html",
+                    "wpconfig": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html",
+                    "wpcontent": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content",
+                    "uploads": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html",
+                    "abs": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html",
+                    "wpconfig": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html",
+                    "wpcontent": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content",
+                    "uploads": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/hbf09411e6\/domains\/quynhvishop.shop\/public_html\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "tinymce-advanced\/tinymce-advanced.php": {
+                "slug": "tinymce-advanced\/tinymce-advanced.php",
+                "name": "Advanced Editor Tools",
+                "version": "5.9.2",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/tinymce-advanced\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/automattic.com",
+                "description": "Extends and enhances the block editor (Gutenberg) and the classic editor (TinyMCE).",
+                "title": "Advanced Editor Tools",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "akismet\/akismet.php": {
+                "slug": "akismet\/akismet.php",
+                "name": "Akismet Anti-spam: Spam Protection",
+                "version": "5.3.3",
+                "pluginURI": "https:\/\/akismet.com\/",
+                "author": "Automattic - Anti-spam Team",
+                "authorURI": "https:\/\/automattic.com\/wordpress-plugins\/",
+                "description": "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam<\/strong>. Akismet Anti-spam keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.",
+                "title": "Akismet Anti-spam: Spam Protection",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "all-in-one-contact-buttons-wpshare247\/all-in-one-contact-buttons-wpshare247.php": {
+                "slug": "all-in-one-contact-buttons-wpshare247\/all-in-one-contact-buttons-wpshare247.php",
+                "name": "All-in-one contact buttons - WPSHARE247",
+                "version": "1.1.0",
+                "pluginURI": "https:\/\/wpshare247.com\/",
+                "author": "Wpshare247.com",
+                "authorURI": "https:\/\/wpshare247.com",
+                "description": "Floating click to contact buttons All-In-One",
+                "title": "All-in-one contact buttons - WPSHARE247",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "classic-editor\/classic-editor.php": {
+                "slug": "classic-editor\/classic-editor.php",
+                "name": "Classic Editor",
+                "version": "1.6.4",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/classic-editor\/",
+                "author": "WordPress Contributors",
+                "authorURI": "https:\/\/github.com\/WordPress\/classic-editor\/",
+                "description": "Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen.",
+                "title": "Classic Editor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.10.2",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "hello.php": {
+                "slug": "hello.php",
+                "name": "Hello Dolly",
+                "version": "1.7.2",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/hello-dolly\/",
+                "author": "Matt Mullenweg",
+                "authorURI": "http:\/\/ma.tt\/",
+                "description": "This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly<\/cite> in the upper right of your admin screen on every page.",
+                "title": "Hello Dolly",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "thanh-toan-qrcode\/ttqr.php": {
+                "slug": "thanh-toan-qrcode\/ttqr.php",
+                "name": "Thanh To\u00e1n Qu\u00e9t M\u00e3 QR Code T\u1ef1 \u0110\u1ed9ng - MoMo, ViettelPay, VNPay v\u00e0 40 ng\u00e2n h\u00e0ng Vi\u1ec7t Nam",
+                "version": "1.2.1",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/ttqr\/",
+                "author": "Ttqr Team",
+                "authorURI": "https:\/\/haibasoft.com\/",
+                "description": "T\u1ef1 \u0111\u1ed9ng x\u00e1c nh\u1eadn thanh to\u00e1n qu\u00e9t m\u00e3 QR Code MoMo, ViettelPay, VNPay, Vietcombank, Vietinbank, Techcombank, MB, ACB, VPBank, TPBank..",
+                "title": "Thanh To\u00e1n Qu\u00e9t M\u00e3 QR Code T\u1ef1 \u0110\u1ed9ng - MoMo, ViettelPay, VNPay v\u00e0 40 ng\u00e2n h\u00e0ng Vi\u1ec7t Nam",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "9.2.3",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An ecommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "flatsome-child": {
+                "slug": "flatsome-child",
+                "themeName": "Flatsome Child",
+                "version": "3.0",
+                "themeURI": "",
+                "parentTheme": "flatsome",
+                "template": "flatsome",
+                "stylesheet": "flatsome-child",
+                "description": "This is a child theme for Flatsome Theme",
+                "author": "UX Themes",
+                "authorURI": "",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "flatsome": {
+                "slug": "flatsome",
+                "themeName": "Flatsome",
+                "version": "3.18.7",
+                "themeURI": "http:\/\/flatsome.uxthemes.com",
+                "parentTheme": false,
+                "template": "flatsome",
+                "stylesheet": "flatsome",
+                "description": "Multi-Purpose Responsive WooCommerce Theme",
+                "author": "UX-Themes",
+                "authorURI": "https:\/\/uxthemes.com",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentyfour": {
+                "slug": "twentytwentyfour",
+                "themeName": "Twenty Twenty-Four",
+                "version": "1.2",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfour\/",
+                "parentTheme": false,
+                "template": "twentytwentyfour",
+                "stylesheet": "twentytwentyfour",
+                "description": "Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.5",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.8",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Site Editor features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "style-variations",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "quynhvishop"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20240905_quynhvishop_75bf2c84d75e89ef7619_20240929032811_installer-backup.php",
+    "package_name": "20240905_quynhvishop_75bf2c84d75e89ef7619_20240929032811_archive.zip",
+    "package_hash": "75bf2c8-29032811",
+    "package_notes": ""
+}
